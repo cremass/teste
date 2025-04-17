@@ -1,0 +1,29 @@
+header{
+    text-align: center;
+    margin: auto;
+    font-family: "Arial";
+    font-size: 55px;
+}
+button{
+    width: 40px;
+    background-color: gray;
+    height: 5000px;
+    text-align: left;
+    text-orientation: left;
+    margin-left: -10px;
+    margin-top: -300px;
+    text-decoration: none;
+    border: none;
+    transition: 0.5s ease-in-out;
+    img{
+        margin-bottom: 4500px;
+        background-size: 100px;
+        align-self: top;
+        justify-content: top;
+        align-content: top;
+        width: 40px;
+    }
+}
+button:hover{
+    width: 200px;
+}
